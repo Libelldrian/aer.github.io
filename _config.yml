@@ -18,9 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://aer.github.io/assets/files/CV_AER.pdf
+resume-url: https://libelldrian.github.io/assets/files/CV_AER.pdf
 
-url: https://aer.github.io
+url: https://libelldrian.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
