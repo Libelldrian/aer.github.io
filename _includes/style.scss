@@ -21,3 +21,11 @@
 @import "components/side-by-side";
 @import "components/social-links";
 @import "components/spoiler";
+
+body:has(.header-home) {
+    background-image: url("/assets/images/flock_bg.png");
+    background-position: center top;
+    background-size: 560px auto;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
