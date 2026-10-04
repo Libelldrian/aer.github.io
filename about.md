@@ -4,22 +4,23 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Who I Am</h2>
+<p>I’m a biophysics Master's student with a strong analytical foundation and a growing interest in data science and finance. My academic background has trained me to think critically about complex systems and approach problems through both quantitative and conceptual lenses.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>What I Do</h2>
+<p>I am currently working on my master's thesis on the topic of simulation-based inference of collective behavior models under the supervision of Prof. Dr. Pawel Romanczuk at Humboldt University in Berlin.</p>
+
+<h2>What Motivates Me</h2>
+<p>I’m motivated by the goal of understanding how scientific, financial, and technological forces intersect to shape real-world outcomes. By deepening my skills in data analysis, modeling, and financial theory, I aim to bridge the gap between technical insight and strategic decision-making.</p>
+
+<!-- 
+<h2>Personal Introduction</h2>
+<p>Lorem ipsum.</p>
+
+<h2>Machine Learning for Collective Behavior Modeling</h2>
+<p>Lorem ipsum.</p>
 
 <h2>Skills</h2>
-
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
@@ -43,3 +44,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+-->
